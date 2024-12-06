@@ -1,0 +1,20 @@
+{
+    "name": "mixno35/language-pro",
+    "description": "A simple multi languages for PHP App",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "LanguagePro\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Alexander Mikhno",
+            "email": "mixno35@yandex.com"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
